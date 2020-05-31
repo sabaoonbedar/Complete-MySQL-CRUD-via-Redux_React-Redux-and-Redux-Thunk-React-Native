@@ -34,8 +34,9 @@
 8. Remember it includes files of php which works on server side so you have to download xampp or wampp to get phpmyadmin and in the htdocs folder of the xampp you have to add your whole project so then everything will work accurately.
 9. DataCollection.sql file is given, which you can import into your localhost/phpmyadmin which will help you in connectivity with mysql, as the code is already synced with it.
 #### Good Luck !
- 
-![1](/uploads/832e48e0d029b998a6bd48682fe6a94f/1.png) ![2](/uploads/380fdbcd1868ef771fba1c408b0219ca/2.png) ![3](/uploads/bdb32bd094986594d2bb6644aa3902b4/3.png) ![4](/uploads/910297d467f14fb8e2dce47c835aa28d/4.png)
+
+![1](https://user-images.githubusercontent.com/65660680/83349388-0121f280-a34e-11ea-8999-98e9949143d3.png)![2](https://user-images.githubusercontent.com/65660680/83349392-03844c80-a34e-11ea-86a0-717facd4b4bc.png)![3](https://user-images.githubusercontent.com/65660680/83349393-04b57980-a34e-11ea-95aa-242370b8cd77.png)![4](https://user-images.githubusercontent.com/65660680/83349396-05e6a680-a34e-11ea-82f3-b87fc4b76f59.png)
+
 
 
 
